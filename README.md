@@ -1,1 +1,1 @@
-# lesson-react-redux
+React and redux lesson
